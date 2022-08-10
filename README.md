@@ -43,10 +43,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhulp&show_icons=true&locale=en&layout=compact" alt="madhulp&theme=algolia" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en" alt="madhulp&theme=radical" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhulp&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="madhulp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en&theme=highcontrast" alt="madhulp" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhulp&" alt="madhulp&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhulp&&theme=highcontrast" alt="madhulp" /></p>
 
 
 
