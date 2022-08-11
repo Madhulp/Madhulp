@@ -23,27 +23,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 <br>
 <br>
-
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhulp" alt="madhulp" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-
-
-<p align="center">
-</p>
-
-
-
-
+<p align="center"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhulp&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="madhulp" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en&theme=highcontrast" alt="madhulp" /></p>
