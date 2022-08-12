@@ -30,7 +30,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="center"></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhulp&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="madhulp" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en&theme=highcontrast" alt="madhulp" /></p>
 <br>
