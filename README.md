@@ -5,6 +5,8 @@
 
 <br>
 
+
+
 ## 🌐 Socials
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhul-patil)
@@ -24,10 +26,17 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
+
+
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhulp" alt="madhulp" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+
+
 
 
 <p align="center"></p>
@@ -35,6 +44,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en&theme=highcontrast" alt="madhulp" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhulp&&theme=highcontrast" alt="madhulp" /></p>
+
+
 
 
 
