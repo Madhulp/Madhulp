@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Madhul Patil</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=madhulp&label=Profile%20views&color=0e75b6&style=flat" alt="madhulp" /> </p>
 
-<img src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg" />
+<img style="width:500px; height:00px; align=centre" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg" />
 <br>
 
 ## 🌐 Socials
