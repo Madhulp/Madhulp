@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Madhul Patil</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=madhulp&label=Profile%20views&color=0e75b6&style=flat" alt="madhulp" /> </p>
 
-<img style="border: 1px solid red;margin-left:1000px; width:680px; height:500px; align=centre" src="https://static.eventscape.live/cmn/img/corp/engage_build_grow.png" />
+<img align="right" src="https://static.eventscape.live/cmn/img/corp/engage_build_grow.png" />
 <br>
 
 ## 🌐 Socials
