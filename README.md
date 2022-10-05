@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Madhul Patil</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=madhulp&label=Profile%20views&color=0e75b6&style=flat" alt="madhulp" /> </p>
-<h1 align="center"> <img src="https://static.eventscape.live/cmn/img/corp/engage_build_grow.png" alt="madhulp" height="300px width="300px"/>
+<h1 align="center"> <img src="https://static.eventscape.live/cmn/img/corp/engage_build_grow.png" alt="madhulp" height="270px width="270px"/>
 <br>
 
 🌐 Socials
