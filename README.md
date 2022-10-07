@@ -39,25 +39,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhulp&&theme=highcontrast" alt="madhulp" /></p>
 
+<p align="left">
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhulp&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="madhulp" /></p>
 
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhulp&show_icons=true&locale=en&layout=compact" alt="madhulp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en" alt="madhulp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhulp&show_icons=true&locale=en&&theme=highcontrast" alt="madhulp" /></p>
 
 
 
